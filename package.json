@@ -1,7 +1,7 @@
 {
   "name": "group-array-by",
-  "version": "0.0.0",
-  "description": "Turns an array into an object with values grouped into arrays by passing each value to `getKey` to determine which group the value belongs to.",
+  "version": "1.0.0",
+  "description": "Takes an array and returns an object with values grouped into arrays by passing each value to `getKey` to determine to which group the value belongs.",
   "keywords": [
     "group",
     "groupBy",

@@ -1,6 +1,6 @@
 # group-array-by
 
-Turns an array into an object with values grouped into arrays under the object key returned by the `getKey` function.
+Takes an array and returns an object with values grouped into arrays by passing each value to `getKey` to determine to which group the value belongs.
 
 ## install
 
