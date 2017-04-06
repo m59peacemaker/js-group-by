@@ -1,0 +1,33 @@
+{
+  "name": "group-array-by",
+  "version": "0.0.0",
+  "description": "Turns an array into an object with values grouped into arrays by passing each value to `getKey` to determine which group the value belongs to.",
+  "keywords": [
+    "group",
+    "groupBy",
+    "group-by",
+    "array",
+    "object",
+    "arrays",
+    "key",
+    "property",
+    "value",
+    "browser"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/js-group-by"
+  },
+  "author": "Johnny Hauser <johnnyhauser@gmail.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "reduce-by": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
