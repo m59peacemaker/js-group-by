@@ -19,7 +19,7 @@ groupBy(v => v.type, [
   { type: 'juice', fruit: 'grape' },
   { type: 'coffee', roast: 'dark' }
 ])
-// => {
+/* => {
   coffee: [
     { type: 'coffee', roast: 'light' },
     { type: 'coffee', roast: 'medium' },
@@ -28,7 +28,7 @@ groupBy(v => v.type, [
   juice: [
     { type: 'juice', fruit: 'grape' }
   ]
-}
+} */
 ```
 
 ## api
