@@ -1,6 +1,6 @@
 {
   "name": "group-array-by",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Takes an array and returns an object with values grouped into arrays by passing each value to `getKey` to determine to which group the value belongs.",
   "keywords": [
     "group",
